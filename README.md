@@ -1,1 +1,1 @@
-# Srock-predictor
+# Stock-predictor
